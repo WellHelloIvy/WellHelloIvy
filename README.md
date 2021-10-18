@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 😄 Pronouns: she/her/hers <br>
 🔭 I’m currently working on refactoring some of my earlier projects <br>
 🌱 I’m currently learning to snowboard in Salt Lake City <br>
-⚡ Fun fact: I graduated from the University of Florida this year! Go Gators! 
-📫 How to reach me: www.ivyhuynh.codes
+⚡ Fun fact: I graduated from the University of Florida this year! Go Gators! <br>
+📫 How to reach me: www.ivyhuynh.codes <br>
