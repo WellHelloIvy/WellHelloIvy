@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 🔭 I’m currently working on refactoring some of my earlier projects <br>
 🌱 I’m currently learning to snowboard in Salt Lake City <br>
 ⚡ Fun fact: I graduated from the University of Florida this year! Go Gators! <br>
-📫 How to reach me: www.ivyhuynh.codes <br>
+📫 Check out what I'm doing at www.ivyhuynh.codes <br>
