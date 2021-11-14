@@ -1,5 +1,4 @@
-### Hi there 👋 <br>
-### I'm Ivy <br>
+### 👋 Hi there. I'm Ivy <br>
 
 <!--
 **WellHelloIvy/WellHelloIvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
