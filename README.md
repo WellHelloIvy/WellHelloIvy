@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=WellHelloIvy&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
 😄 Pronouns: she/her/hers <br>
-🔭 I’m currently working on refactoring some of my earlier projects <br>
+🔭 I’m currently looking for my first role as a software developer <br>
 🌱 I’m currently learning to snowboard in Salt Lake City <br>
 ⚡ Fun fact: I graduated from the University of Florida this year! <br>
 📫 Check out what I'm doing at www.ivyhuynh.codes <br>
