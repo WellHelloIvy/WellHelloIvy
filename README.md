@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 😄 Pronouns: she/her/hers <br>
 🔭 I’m currently looking for my first role as a software developer <br>
 🌱 I’m learning to snowboard in Salt Lake City <br>
-⚡ Fun fact: I graduated from the University of Florida this year! <br>
+⚡ Fun fact: I graduated from the University of Florida AND App Academy this year! <br>
 📫 Check out what I'm doing at www.ivyhuynh.codes <br>
